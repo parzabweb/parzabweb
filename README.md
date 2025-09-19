@@ -1,37 +1,56 @@
-![logo](https://github.com/sheikh-python/sheikh-python/blob/main/1.jpg)
-<h1 align="center">Hi 👋, I'm Ahmad</h1>
-<h3 align="center">A passionate backend and software developer from Iran</h3>
+<h1 align="center">Hi 👋, I'm Parzab</h1>
+<h3 align="center">A passionate backend & web developer | Digital Craftsman</h3>
 
-<img align="right" alt="sheikh python" width = "400" src ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikh-python&label=Profile%20views&color=0e75b6&style=flat" alt="sheikh-python" /> </p>
-
-- 🔭 I’m currently working on [Complete school management project with Tkinter](https://github.com/sheikh-python/Tkinter_school_project)
-
-- 🌱 I’m currently learning **Django Framework and Machine Learning**
-
-- 🤝 You can see my tutorials on my YouTube channel [sheikh_python](https://www.youtube.com/@sheikh_python)
-
-- 👨‍💻 All of my projects are available at [https://github.com/sheikh-python](https://github.com/sheikh-python)
-
-- 💬 Ask me about **Tkinter and python**
-
-- 📫 How to reach me **ahmadsheikhzadeh902@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmad-sheikhzadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-sheikhzadeh" height="30" width="40" /></a>
-<a href="https://instagram.com/studio.adobe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="studio.adobe" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sheikh_python" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sheikh_python" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/L0tC7BLU3H8k2/giphy.gif" alt="Coding Animation" width="400"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<img align="right" alt="sheikh python" width = "400" src ="https://www.gifcen.com/wp-content/uploads/2023/11/hacker-gif-8.gif">
+## 🚀 About Me
+I’m a creative developer specializing in **Python, Django, C++, C#, Web Security, Networking, HTML, CSS, and JS**.  
+I don't just write code — I craft **digital masterpieces**. Every project I deliver is designed to leave a mark.  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikh-python&show_icons=true&locale=en&layout=compact" alt="sheikh-python" /></p>
+Check out my portfolio: [parzab.ir](https://www.parzab.ir)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikh-python&show_icons=true&locale=en" alt="sheikh-python" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikh-python&" alt="sheikh-python" /></p>
+## 💻 Skills & Tools
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+---
+
+## 🌟 My Philosophy
+> "I don't just write code, I create experiences. Each project is a digital story."
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.instagram.com/parzab_web" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/></a>
+  <a href="https://www.parzab.ir" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/internet-website.svg" alt="Website" width="40" height="40"/></a>
+  <a href="mailto:contact@parzab.ir"><img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" width="40" height="40"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=parzab&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzab&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Digital Wizardry" width="400"/>
+</p>
